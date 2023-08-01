@@ -1,4 +1,4 @@
 ## Usage
-    ```
-        g++ -std=c++11 main.cpp -o main
-    ```
+```bash
+g++ -std=c++11 main.cpp -o main
+```
